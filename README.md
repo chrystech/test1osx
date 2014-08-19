@@ -1,4 +1,4 @@
 test1osx
 ========
 
-testing
+This repository is for my testing of different things
